@@ -1,0 +1,12 @@
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\DOMAIN2.dll.config
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\DOMAIN2.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\DOMAIN2.pdb
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\EntityFramework.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\EntityFramework.xml
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\obj\Debug\DOMAIN2.csproj.AssemblyReference.cache
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\obj\Debug\DOMAIN2.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\obj\Debug\DOMAIN2.csproj.CopyComplete
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\obj\Debug\DOMAIN2.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\DOMAIN2\obj\Debug\DOMAIN2.pdb

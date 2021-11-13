@@ -1,0 +1,17 @@
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll.config
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.pdb
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\DOMAIN2.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\EntityFramework.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\DOMAIN2.pdb
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\DOMAIN2.dll.config
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\EntityFramework.xml
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CopyComplete
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.dll
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.pdb
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.Crh.resources
+C:\Users\Yeridi Crhis\source\repos\WebApplication1\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.GenerateResource.cache
